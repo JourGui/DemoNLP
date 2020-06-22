@@ -1,6 +1,6 @@
-# DemoNLP
+# DemoNLP : Voice recognition via NLP techniques
 
-In this study people freely asked a question to a voice recognition application. The application sometimes failed sometimes succeed.
+In this study, people freely asked a question to a voice recognition application. The application sometimes failed sometimes succeed.
 In order to better target the topics which lead to a request failure, NLP techniques are used to gather the questions in several topics.
 
 As an example LDA is used.
